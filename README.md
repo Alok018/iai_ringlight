@@ -1,5 +1,4 @@
 [![Build Status](http://jenkins.local:8080/job/IAIringlight/badge/icon)](http://jenkins.local:8080/job/IAIringlight/)
-
 # IAI_ringlight_controller
 
 
